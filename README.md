@@ -1,1 +1,2 @@
-# cs523-graphics-unity
+# Unity
+General Unity Playground with all needed assets
