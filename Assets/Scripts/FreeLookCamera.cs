@@ -23,8 +23,8 @@ public class FreeLookCamera : MonoBehaviour {
     }
 
     public enum MOUSE_INPUT : int {
-        PITCH_MOUSE = KeyCode.Mouse1,
-        YAW_MOUSE = KeyCode.Mouse1
+		PITCH_MOUSE = KeyCode.Mouse1,
+		YAW_MOUSE = KeyCode.Mouse1
     }
 
     #endregion

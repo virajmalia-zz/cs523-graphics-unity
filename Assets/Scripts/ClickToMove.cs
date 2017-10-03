@@ -23,7 +23,7 @@ namespace CompletedProject
 		{
 			Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
 			RaycastHit hit;
-			if (Input.GetButtonDown("Fire2"))
+			if (Input.GetButtonDown("Fire1"))
 			{
 				if (Physics.Raycast(ray, out hit, 1000)){
 					navMeshAgent.destination = hit.point;
