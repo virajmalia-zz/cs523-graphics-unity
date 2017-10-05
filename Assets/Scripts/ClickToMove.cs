@@ -6,7 +6,6 @@ using UnityEngine.AI;
 
 namespace CompletedProject
 {
-
 	public class ClickToMove : MonoBehaviour
 	{
 		private NavMeshAgent navMeshAgent;
@@ -31,5 +30,4 @@ namespace CompletedProject
 			}
 		}
 	}
-
 }
