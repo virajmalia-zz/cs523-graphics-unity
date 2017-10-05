@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs523-graphics-unity", "cs523-graphics-unity.csproj", "{99C0C1E1-BF51-E278-AF3D-412F935011E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs523-graphics-unity.Plugins", "cs523-graphics-unity.Plugins.csproj", "{5155F5C0-5F9E-F4E1-8F20-4E2D77A748B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs523-graphics-unity.Editor", "cs523-graphics-unity.Editor.csproj", "{676A0C7A-6800-E37C-AC74-8637DE7C3B9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99C0C1E1-BF51-E278-AF3D-412F935011E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C0C1E1-BF51-E278-AF3D-412F935011E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C0C1E1-BF51-E278-AF3D-412F935011E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C0C1E1-BF51-E278-AF3D-412F935011E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5155F5C0-5F9E-F4E1-8F20-4E2D77A748B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5155F5C0-5F9E-F4E1-8F20-4E2D77A748B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5155F5C0-5F9E-F4E1-8F20-4E2D77A748B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5155F5C0-5F9E-F4E1-8F20-4E2D77A748B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{676A0C7A-6800-E37C-AC74-8637DE7C3B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676A0C7A-6800-E37C-AC74-8637DE7C3B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676A0C7A-6800-E37C-AC74-8637DE7C3B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{676A0C7A-6800-E37C-AC74-8637DE7C3B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

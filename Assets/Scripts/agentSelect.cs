@@ -5,7 +5,6 @@ using UnityEngine.AI;
 
 public class agentSelect : MonoBehaviour {
 
-	//public Transform enemy;
 	private NavMeshAgent goodGuy;
 	private bool set = false;
 	private bool selected = false;

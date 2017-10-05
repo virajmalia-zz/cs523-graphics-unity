@@ -53,7 +53,6 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\agentMsg.cs" />
      <Compile Include="Assets\Scripts\agentSelect.cs" />
-     <Compile Include="Assets\Scripts\ClickToMove.cs" />
      <Compile Include="Assets\Scripts\Curves\BezierSpline.cs" />
      <Compile Include="Assets\Scripts\Curves\CatmullRomSpline.cs" />
      <Compile Include="Assets\Scripts\Curves\CubicBezierCurve.cs" />
@@ -62,6 +61,9 @@
      <Compile Include="Assets\Scripts\Curves\Line.cs" />
      <Compile Include="Assets\Scripts\Curves\QuadBezierCurve.cs" />
      <Compile Include="Assets\Scripts\FreeLookCamera.cs" />
+     <Compile Include="Assets\Scripts\MovingObstacleXaxis.cs" />
+     <Compile Include="Assets\Scripts\MovingObstacleZaxis.cs" />
+     <Compile Include="Assets\Scripts\ObstacleScript.cs" />
      <Compile Include="Assets\Scripts\SampleAgentScript.cs" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
