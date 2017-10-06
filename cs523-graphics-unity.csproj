@@ -99,6 +99,7 @@
     <Compile Include="Assets\Scripts\FreeLookCamera.cs" />
     <Compile Include="Assets\Scripts\MovingObstacleXaxis.cs" />
     <Compile Include="Assets\Scripts\MovingObstacleZaxis.cs" />
+    <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
     <Compile Include="Assets\Scripts\ObstacleScript.cs" />
     <Compile Include="Assets\Scripts\SampleAgentScript.cs" />
   </ItemGroup>
